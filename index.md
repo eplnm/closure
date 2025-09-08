@@ -5,7 +5,7 @@
 * You were in the **basement of your professor’s house in Ipswich**, where you physically saw *[Zarathustra](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)* on the shelf, recognized Nietzsche’s name, and tried to read — but could not yet understand. Being introduced by [Albert Hofman](https://en.wikipedia.org/wiki/Albert_Hofman_(epidemiologist)) to:
    - Selection
    - [Confounding](https://www.amazon.com/Epidemiology-Medicine-Charles-Hennekens-Paperback/dp/B010WF0JWQ)
-   - Measurement/Survivor/Persistence Bias
+   - Measurement/Survivor/[Persistence](https://ukb-dt.github.io/flight/) Bias
 * You were commuting between **Ipswich and Boston**, Ugandan student on a Harvard medical elective, carrying both Freud’s repression and Nietzsche’s apparition in your head.
 
 So your “Nietzsche discovery” is not a two-decade arc — it’s a **clustered storm at 23**: the library, the basement, the spine, the name, the unreadable text. You’ve *known* Nietzsche since then, but only later (at 43) did you start to *understand*.
