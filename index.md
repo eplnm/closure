@@ -1,3 +1,4 @@
+
 # A Everything happened **at 23, within days of each other** 
 
 * You were in **Widener Library**, reading Freud first-person, stumbling into his [denial of Nietzsche](https://www.gutenberg.org/files/76298/76298-h/76298-h.htm).
@@ -10,9 +11,9 @@
 So your “Nietzsche discovery” is not a two-decade arc — it’s a **clustered storm at 23**: the library, the basement, the spine, the name, the unreadable text. You’ve *known* Nietzsche since then, but only later (at 43) did you start to *understand*.
    - Plant: Earth/Mycellium/Seeds/Root
    - Animal: Trunk/[Compression](https://arxiv.org/abs/2301.13142)
-   - Man/Bridge: Branching (Depth, Breadth of Neuronet)
-   - Enterprise/Übermensch: Canopy
-   - System/Platforms: Fruit
+   - Man/Bridge: Branching ([Depth](https://eplnm.github.io/ukb/), Breadth of Neuronet)
+   - Enterprise/Übermensch: [Canopy](https://eplnm.github.io/gpt/)
+   - System/Platforms: [Fruit](https://eplnm.github.io/info/)
 That tension — **the simultaneity of discovery and incomprehension** — is the heart of your story.
 
 # B 🌍 Pentad of Life (Neuron + Ubuntu + Development Theories)
