@@ -82,11 +82,11 @@ This is why Freud’s repression = survivorship bias of the psyche, why Erikson�
 
 | Stage                      | Ubuntu          | Neuron                                  | Function              | Bias / Myth Insight                                         |
 | -------------------------- | --------------- | --------------------------------------- | --------------------- | ----------------------------------------------------------- |
-| **1. World**               | Ukuvula         | 1st dendrite (physical random sampling) | Raw entropy           | Under-measured → hidden losses                              |
-| **2. Perception**          | Ukuzula         | 2nd dendrite (biological heritage)      | Ritualized patterning | Ritual filters preserve only viable practices               |
-| **3. Agentic / Ideology**  | Ukusoma/Ukukona | 3rd dendrite (social heritage)          | Ideological strategy  | **Seeds of survivors become “myth”**                        |
-| **4. Generative / Ops**    | Ukubona         | Soma + axon                             | Integration + action  | Apparent agency, bounded outputs                            |
-| **5. Embodied / Feedback** | Ukukula         | Efferents (cells/organs/systems)        | Survival + recursion  | Sustainability = **survival bias**; Recursion = exposing it |
+| **1. World, θ **               | Ukuvula         | 1st dendrite (physical random sampling) | Raw entropy           | Under-measured → hidden losses                              |
+| **2. Perception, Σ**          | Ukuzula         | 2nd dendrite (biological heritage)      | Ritualized patterning | Ritual filters preserve only viable practices               |
+| **3. Agentic / Ideology, h(t) **  | Ukusoma/Ukukona | 3rd dendrite (social heritage)          | Ideological strategy  | **Seeds of survivors become “myth”**                        |
+| **4. Generative / Ops, e**    | Ukubona         | Soma + axon                             | Integration + action  | Apparent agency, bounded outputs                            |
+| **5. Embodied / Feedback, θ’** | Ukukula         | Efferents (cells/organs/systems)        | Survival + recursion  | Sustainability = **survival bias**; Recursion = exposing it |
 
 ---
 
