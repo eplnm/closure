@@ -6,7 +6,7 @@
 
 So your “Nietzsche discovery” is not a two-decade arc — it’s a **clustered storm at 23**: the library, the basement, the spine, the name, the unreadable text. You’ve *known* Nietzsche since then, but only later (at 43) did you start to *understand*.
    - Plant: Earth/Mycellium/Seeds/Root
-   - Animal: Trunk
+   - Animal: Trunk/[Compression](https://arxiv.org/abs/2301.13142)
    - Man/Bridge: Branching (Depth, Breadth of Neuronet)
    - Enterprise/Übermensch: Canopy
    - System/Platforms: Fruit
