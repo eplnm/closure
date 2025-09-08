@@ -1,9 +1,9 @@
 # A Everything happened **at 23, within days of each other** 
 
 * You were in **Widener Library**, reading Freud first-person, stumbling into his [denial of Nietzsche](https://www.gutenberg.org/files/76298/76298-h/76298-h.htm).
-* You were in the **basement of your professor’s house in Ipswich**, where you physically saw *[Zarathustra](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)* on the shelf, recognized Nietzsche’s name, and tried to read — but could not yet understand. Being introduced by  to:
+* You were in the **basement of your professor’s house in Ipswich**, where you physically saw *[Zarathustra](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)* on the shelf, recognized Nietzsche’s name, and tried to read — but could not yet understand. Being introduced by [Albert Hofman](https://en.wikipedia.org/wiki/Albert_Hofman_(epidemiologist)) to:
    - Selection
-   - [Confounding](https://en.wikipedia.org/wiki/Albert_Hofman_(epidemiologist))
+   - [Confounding](https://www.amazon.com/Epidemiology-Medicine-Charles-Hennekens-Paperback/dp/B010WF0JWQ)
    - Measurement/Survivor/Persistence Bias
 * You were commuting between **Ipswich and Boston**, Ugandan student on a Harvard medical elective, carrying both Freud’s repression and Nietzsche’s apparition in your head.
 
